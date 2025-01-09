@@ -1,7 +1,7 @@
 # Net Ninja - Next.js Tutorial for Beginners
 
 <!--  Overview  -->
-## <img  align= center width =60px src="https://cdn-icons-png.flaticon.com/512/8632/8632710.png"> Overview <a id="overview"></a>
+## <img  align= center width =50px src="https://cdn-icons-png.flaticon.com/512/8632/8632710.png"> Overview <a id="overview"></a>
 This folder contains all projects and notes from the "Next.js Tutorial for Beginners" by Net Ninja.<br>
 🔗 **Watch the course playlist**: [Net Ninja - Next.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw)
 
