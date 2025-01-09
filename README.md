@@ -1,7 +1,7 @@
 # ⚡🔥🚀 Next.js 🌐✨ Material
 
 <div>
-    <img src="https://cdn.prod.website-files.com/6193387d9bbc32538eaa3d6d/62d8ab7014324b253e00f23f_what%20is%20next%20js.jpg" alt="Next JS Background"/>
+    <img width="70%" src="https://cdn.prod.website-files.com/6193387d9bbc32538eaa3d6d/62d8ab7014324b253e00f23f_what%20is%20next%20js.jpg" alt="Next JS Background"/>
 </div>
 
 ## <img align="center" width="60px" src="https://cdn.edu.buncee.com/assets/436f46a46e68d3c5b2122d50cdfa76ad/animation-holiday-heartinbook.gif?timestamp=1546895403"> Overview
